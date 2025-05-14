@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>186008711546-bsng5b9l4ds6gq9ic7sg802n3f6mvj1f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.186008711546-bsng5b9l4ds6gq9ic7sg802n3f6mvj1f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAim1WYezCSq4amTiZcxiudNhft6OixPwA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186008711546</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>www.TolykSebet</string>
+	<key>PROJECT_ID</key>
+	<string>tolyksebet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tolyksebet.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186008711546:ios:0a020a28af12d4454da6c3</string>
+</dict>
+</plist>
